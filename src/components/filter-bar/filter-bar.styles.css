@@ -1,0 +1,28 @@
+.filter-bar {
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    margin: 0 8px;
+    padding: 9px 10px 10px;
+    border-radius: 17.5px;
+    border-style: none;
+    background-color: #fff;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: 0.3px;
+    text-align: center;
+  }
+
+.button.active {
+    background-color: #0061d5;
+    color: #fff;
+}
